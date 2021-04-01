@@ -1,5 +1,5 @@
 # YouSoundGUI
-Tool for downloading sound from YouTube videos with graphical interface
+Tool for downloading sound from YouTube videos and playlists with graphical interface
 
 <img src=https://github.com/denkus24/YouSoundGUI/blob/main/screen.png align="center" />
 
